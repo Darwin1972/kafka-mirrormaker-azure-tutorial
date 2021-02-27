@@ -184,8 +184,6 @@ An Event Hub with the name **mymachine** ist generated automatically. Click on t
 
 ![](https://user-images.githubusercontent.com/51634515/108910267-e99a4080-7625-11eb-9fa3-99f290f76a91.png)
 
-Go to mymachine Event Hubs Instance. 
-
-Congratulations: Your first on-prem produced Kafka message has been transmitted to Microsoft Azure as you can see for example in "Messages".
+Go to **mymachine**: Your first on-prem produced Kafka message has been transmitted to Microsoft Azure as you can see for example in "Messages".
 
 ![](https://user-images.githubusercontent.com/51634515/108910548-51508b80-7626-11eb-9d8c-a9ed336ddba7.png)
