@@ -8,7 +8,7 @@ This tutorial is a simple step by step instruction to reach the following goal:
 
 ## Step 1
 
-**Prerequisite:** 
+**Prerequisite:**
 
 *   Ubuntu 20.04 (on Windows 10 with WSL 2)
 *   MS Visual Studio Code
@@ -66,7 +66,7 @@ This tutorial is a simple step by step instruction to reach the following goal:
 
 > $ /usr/local/kafka/bin/kafka-topics.sh --create --topic quickstart-events --bootstrap-server localhost:9092
 > 
-> $ /usr/local/kafka/bin/kafka-topics.sh --create --topic **mymachine** \--bootstrap-server localhost:9092
+> $ /usr/local/kafka/bin/kafka-topics.sh --create --topic **mymachine** --bootstrap-server localhost:9092
 > 
 > $ /usr/local/kafka/bin/kafka-topics.sh --list --bootstrap-server  localhost:9092
 
