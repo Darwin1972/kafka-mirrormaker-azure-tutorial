@@ -189,3 +189,7 @@ Go to **mymachine**: Your first on-prem produced Kafka message has been transmit
 Please note that it can take a short instance for the messages to appear in the dashboard below.
 
 ![](https://user-images.githubusercontent.com/51634515/108910548-51508b80-7626-11eb-9d8c-a9ed336ddba7.png)
+
+## Next Steps
+
+*   [azure-streaminganalytics-SQLdb-PowerBi-Grafana-tutorial](https://github.com/Darwin1972/azure-streaminganalytics-SQLdb-PowerBi-Grafana-tutorial)
