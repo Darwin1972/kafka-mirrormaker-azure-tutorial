@@ -16,7 +16,7 @@ This tutorial is a simple step by step instruction to reach the following goal:
 
 ## Step 2
 
-**Install java on Ubuntu 20.04**
+**Install java on Ubuntu 20.04:**
 
 > $ sudo apt update
 > 
@@ -32,7 +32,7 @@ This tutorial is a simple step by step instruction to reach the following goal:
 
 ## Step 3
 
-**Install Apache Kafka on Ubuntu 20.04**
+**Install Apache Kafka on Ubuntu 20.04:**
 
 > $ mkdir kafka
 > 
@@ -50,13 +50,13 @@ This tutorial is a simple step by step instruction to reach the following goal:
 
 ## Step 4
 
-**Start Apache Zookeeper on Ubuntu 20.04**
+**Start Apache Zookeeper on Ubuntu 20.04:**
 
 > $ sudo /usr/local/kafka/bin/zookeeper-server-start.sh /usr/local/kafka/config/zookeeper.properties
 
 ## Step 5
 
-**Start Apache Kafka Server on Ubuntu 20.04**
+**Start Apache Kafka Server on Ubuntu 20.04:**
 
 > $ sudo /usr/local/kafka/bin/kafka-server-start.sh /usr/local/kafka/config/server.properties
 
@@ -112,7 +112,7 @@ for later use.
 
 ## Step 8
 
-**Configure MirrorMaker on Ubuntu 20.04**
+**Configure MirrorMaker on Ubuntu 20.04:**
 
 > $ cd /usr/local/kafka/config
 > 
