@@ -6,6 +6,8 @@ This tutorial is a simple step by step instruction to reach the following goal:
 *   Configure the Apache Kafka tool mirrormaker
 *   Send message produced on-prem to Microsoft Azure Event Hub
 
+Please note: This tutorial is only for dev / poc (proof of concept) environment and not for production environment.
+
 ## Step 1
 
 **Prerequisite:**
